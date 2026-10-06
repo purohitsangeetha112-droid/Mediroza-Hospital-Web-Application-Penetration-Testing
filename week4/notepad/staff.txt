@@ -1,0 +1,14 @@
+
+### 🔎 Relevant staff record
+
+| Field              | Value                                                               |
+| ------------------ | ------------------------------------------------------------------- |
+| **ID**             | 9                                                                   |
+| **Name**           | Jameel Malik                                                        |
+| **Job Title**      | IT Systems Administrator                                            |
+| **Department**     | IT                                                                  |
+| **Email**          | [j.malik@medirozahospital.com](mailto:j.malik@medirozahospital.com) |
+| **Phone**          | +27 82 109 2063                                                     |
+| **Monthly Salary** | ZAR 58,000                                                          |
+| **Date Joined**    | 2015-04-12                                                          |
+
